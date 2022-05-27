@@ -12,3 +12,6 @@ ambari 集成 spark3 服务，集成 kyuubi 替代 spark thrif server
 ## 参考文档：
 - https://github.com/madokast/spark3-ambari
 - https://mp.weixin.qq.com/s/HU2wsmD955mLYtJa-zp57A
+
+## 侵删
+如有侵权，请联系diaohancai@163.com
